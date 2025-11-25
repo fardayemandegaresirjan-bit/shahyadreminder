@@ -1,3 +1,4 @@
+
 name: Android Build
 
 on:
@@ -33,9 +34,5 @@ jobs:
         name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
 git add .github/workflows/build.yml
-git commit -m "Add GitHub Actions workflow for APK build"
+git commit -m "Add GitHub Actions workflow f>
 git push
-git add .github/workflows/build.yml
-git commit -m "Add GitHub Actions workflow for APK build"
-git push
-
