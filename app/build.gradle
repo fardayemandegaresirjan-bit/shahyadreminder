@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdk 34
-    namespace 'com.example.app'
+    namespace 'com.shahyadreminder'
+    compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.app"
+        applicationId "com.shahyadreminder"
         minSdk 21
-        targetSdk 34
+        targetSdk 33
         versionCode 1
         versionName "1.0"
     }
